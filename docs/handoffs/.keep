@@ -1,0 +1,3 @@
+# Session Handoffs
+
+Append-only. One file per session. Format: `YYYY-MM-DD-<topic>.md`
